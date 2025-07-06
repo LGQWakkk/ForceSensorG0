@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "stm32g0xx_hal.h": "c",
+        "system.h": "c",
+        "usart.h": "c",
+        "stdio.h": "c",
+        "cs1237.h": "c",
+        "spi.h": "c",
+        "main.h": "c",
+        "color_generate.h": "c",
+        "si24r1.h": "c",
+        "stdint.h": "c",
+        "cstdarg": "c",
+        "ws2812_port.h": "c",
+        "ws2812.h": "c",
+        "string.h": "c",
+        "stdbool.h": "c",
+        "battery.h": "c",
+        "button.h": "c",
+        "stdarg.h": "c",
+        "stm32g0xx_hal_gpio_ex.h": "c",
+        "stm32g0xx_hal_def.h": "c",
+        "adc.h": "c",
+        "limits": "c",
+        "type_traits": "c",
+        "ws2812_spi.h": "c",
+        "stdlib.h": "c"
+    }
+}
